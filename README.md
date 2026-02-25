@@ -1,7 +1,7 @@
 # 🎨 UI/UX Case Study – Klik Indomaret App
 
 ## 📌 Overview
-Redesign aplikasi klik indomaret untuk meningkatkan user experience dan kemudahan transaksi (kelompok 21 ui/ux design bootcamp myskill).
+Revamp aplikasi klik indomaret untuk meningkatkan user experience dan kemudahan transaksi (kelompok 21 ui/ux design bootcamp myskill).
 
 ## 🎯 Problem
 1. Pengguna tidak dapat membatalkan pesanan maupun melakukan komunikasi dengan toko maupun driver setelah melakukan pembayaran
